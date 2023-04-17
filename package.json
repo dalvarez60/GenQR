@@ -1,0 +1,14 @@
+{
+  "name": "genqr",
+  "version": "1.0.0",
+  "description": "para generar un qr de alta calidad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.1"
+  }
+}
